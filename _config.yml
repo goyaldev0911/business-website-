@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rohan Chikkam"
+title                    : "Quantum Investec"
 title_separator          : "-"
-name                     : &name "Rohan Chikkam"
-description              : &description "MIT MFin '26"
-url                      : https://rchikkam.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Quantum Investec"
+description              : &description "Specialised consulting services"
+url                      : https://quantuminvestec.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chikro1/Personal-Website"
+repository               : "goyaldev0911/business-website-"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Cafe.jpg"
-  name             : "RC"
+  avatar           : "logo.jpg"
+  name             : "Quantum Investec"
   pronouns         : # example: "she/her"  
-  bio              : "MIT MFin '26"
-  location         : "Boston, MA"
-  employer         : "MIT Sloan"
+  bio              : "Specialised consulting services"
+  location         : "United Kingdom"
+  employer         : "Economics"
   uri              : # URL
-  email            : "hello@rchikkam.co.uk" 
+  email            : "dev@quantuminvestec.co.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "chikro1"
+  github           : 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "vssrc"
+  linkedin         : "devgoyal2002"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -128,7 +128,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - CV.pdf
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
