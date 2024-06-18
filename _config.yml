@@ -12,7 +12,7 @@ title                    : "Quantum Investec"
 title_separator          : "-"
 name                     : &name "Quantum Investec"
 description              : &description "Specialised consulting services"
-url                      : https://quantuminvestec.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wwww.quantuminvestec.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "goyaldev0911/business-website-"
 
