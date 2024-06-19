@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Education
-======
+
 * **University of Cambridge**  
   BA Economics, 2021-2024
 * **Reading School**, 2014-2021  
@@ -21,7 +21,7 @@ redirect_from:
     - First-class in Part I and IIA, elected scholar of college
 
 ## Experience
-======
+
 * **Bridgepoint**
   * Intern
   * Duties included:
@@ -50,7 +50,7 @@ redirect_from:
     - Evaluated a company in the hospitality sector using a DCF model, pitched findings to three associates; awarded first place
 
 ## Leadership Experience
-======
+
 * **Scio (writing platform for informative articles)**
   * Co-founder
   * Achievements:
@@ -63,7 +63,7 @@ redirect_from:
     - Organising weekly events for over 500 members
 
 ## Additional Information
-======
+
 * **Technical Training:**
   * Proficient in Microsoft Office (Excel, PowerPoint, and Word), LaTeX, Python, and SEO
 
